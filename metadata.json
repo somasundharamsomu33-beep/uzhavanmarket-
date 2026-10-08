@@ -1,0 +1,6 @@
+{
+  "name": "Uzhavan Market",
+  "description": "Farmer-to-buyer direct agricultural marketplace for fair prices and transparent trade",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

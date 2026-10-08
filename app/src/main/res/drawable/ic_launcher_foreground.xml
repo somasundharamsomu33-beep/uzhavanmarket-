@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Leaf 1 (Left & Up) -->
+    <path
+        android:fillColor="#86EFAC"
+        android:pathData="M54,54 C40,40 38,26 52,24 C64,22 66,36 54,54 Z" />
+    <!-- Leaf 2 (Right & Up) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 C54,38 68,30 76,38 C82,46 72,60 54,54 Z" />
+    <!-- Sprout Stem -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M52,52 C52,68 46,78 38,82 C36,83 38,85 41,84 C52,78 56,66 56,52 Z" />
+    <!-- Furrow Ground Accent -->
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M30,84 C46,80 62,80 78,84 C80,84.5 78,86.5 76,86.5 C62,83 46,83 32,86.5 Z" />
+</vector>
